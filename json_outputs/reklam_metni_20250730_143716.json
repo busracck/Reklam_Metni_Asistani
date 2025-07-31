@@ -1,0 +1,64 @@
+{
+    "request_parameters": {
+        "product_name": "10 Basit ve Etkili Cilt Bakımı Tüyosu",
+        "product_description": "Cilt bakımı nedir? 10 basit ve etkili bakımı tüyosu. Cilt bakımı, cildin bütünlüğünü destekleyen, görünümünü iyileştiren ve ciltteki semptomları hafifleten uygulamalardır.",
+        "target_audience": "herkes",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "cilt bakımı",
+            "yüz bakımı",
+            "beden sağlığı",
+            "vitamin",
+            "nemlendirme"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 5,
+        "num_slogans": 1
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Cilt Bakımının Sırları",
+                "char_count": 22
+            },
+            {
+                "text": "Sağlıklı Cilt, Güzel Sen",
+                "char_count": 24
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Hemen Başla!",
+                "char_count": 12
+            },
+            {
+                "text": "Cildini Tanı",
+                "char_count": 12
+            },
+            {
+                "text": "İndirimli Ürünler",
+                "char_count": 17
+            },
+            {
+                "text": "Şimdi Al, Sonra Keyif Al",
+                "char_count": 24
+            },
+            {
+                "text": "Profesyonel Tavsiyeler",
+                "char_count": 22
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Cildin, Sağlığın, Güzelliğin.",
+                "char_count": 29
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n- Cilt Bakımının Sırları\n- Sağlıklı Cilt, Güzel Sen\n\n**2. Reklam Gövde Metni:**\nCilt bakımı ile kusursuz görünümün artık mümkün! Vitaminli nemlendiricilerle cildini besle ve sağlıklı bir ışıltı kazan.\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri:**\n- Hemen Başla!\n- Cildini Tanı\n- İndirimli Ürünler\n- Şimdi Al, Sonra Keyif Al\n- Profesyonel Tavsiyeler\n\n**4. Slogan Önerileri:**\n- Cildin, Sağlığın, Güzelliğin.\n"
+}

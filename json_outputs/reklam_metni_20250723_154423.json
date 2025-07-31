@@ -1,0 +1,74 @@
+{
+    "request_parameters": {
+        "product_name": "Organik Ev Yapımı Reçel",
+        "product_description": "sağlıklı güzel meyvelerden yapılmış reçeller",
+        "target_audience": "ev yapımı reçel, organik, doğal, sağlıklı kahvaltı, katkısız, lezzetli, meyve reçeli",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Mizahi",
+        "keywords": [
+            "Sağlıklı beslenmeye önem veren aileler",
+            "doğal ürün arayan ebeveynler",
+            "gurme lezzet düşkünleri."
+        ],
+        "num_headlines": 2,
+        "num_ctas": 6,
+        "num_slogans": 3
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "“Meyveli Mutluluk”",
+                "char_count": 18
+            },
+            {
+                "text": "“Doğal Reçel Keyfi”",
+                "char_count": 19
+            }
+        ],
+        "body_text": {
+            "text": "(1 adet):**",
+            "char_count": 11
+        },
+        "ctas": [
+            {
+                "text": "“Hemen sipariş verin!”",
+                "char_count": 22
+            },
+            {
+                "text": "“Şimdi keşfedin!”",
+                "char_count": 17
+            },
+            {
+                "text": "“Aileniz için sağlıklı seçin.”",
+                "char_count": 30
+            },
+            {
+                "text": "“Reçel koleksiyonunuzu tamamlayın.”",
+                "char_count": 35
+            },
+            {
+                "text": "“Mutlu kahvaltılar yaratın.”",
+                "char_count": 28
+            },
+            {
+                "text": "“Doğal lezzetleri keşfedin!”",
+                "char_count": 28
+            }
+        ],
+        "slogans": [
+            {
+                "text": "“Meyvelerin En Güzel Hali.”",
+                "char_count": 27
+            },
+            {
+                "text": "“Doğallıkla Lezzet.”",
+                "char_count": 20
+            },
+            {
+                "text": "“Her Bir Lokmada Bir Mutluluk.”",
+                "char_count": 31
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları (2 adet):**\n- “Meyveli Mutluluk”\n- “Doğal Reçel Keyfi”\n\n**2. Reklam Gövde Metni (1 adet):**\n“Organik meyvelerden yapılmış, lezzetli ve sağlıklı reçellerimizle güne başlayın!” (74 karakter)\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri (6 adet):**\n- “Hemen sipariş verin!”\n- “Şimdi keşfedin!”\n- “Aileniz için sağlıklı seçin.”\n- “Reçel koleksiyonunuzu tamamlayın.”\n- “Mutlu kahvaltılar yaratın.”\n- “Doğal lezzetleri keşfedin!”\n\n**4. Slogan Önerileri (3 adet):**\n- “Meyvelerin En Güzel Hali.”\n- “Doğallıkla Lezzet.”\n- “Her Bir Lokmada Bir Mutluluk.”\n"
+}

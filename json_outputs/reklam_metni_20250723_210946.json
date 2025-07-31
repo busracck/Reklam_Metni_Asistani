@@ -1,0 +1,70 @@
+{
+    "request_parameters": {
+        "product_name": "Organik Ev Yapımı Reçel",
+        "product_description": "organik reçeller",
+        "target_audience": "Sağlıklı beslenmeye önem veren aileler, doğal ürün arayan ebeveynler, gurme lezzet düşkünleri.",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "ev yapımı reçel",
+            "organik",
+            "doğal",
+            "sağlıklı kahvaltı",
+            "katkısız",
+            "lezzetli",
+            "meyve reçeli"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 6,
+        "num_slogans": 1
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Organik Reçel Keyfi",
+                "char_count": 19
+            },
+            {
+                "text": "Doğal Lezzet, Ailele Hazır",
+                "char_count": 26
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Sipariş Verin!",
+                "char_count": 20
+            },
+            {
+                "text": "Aileniz İçin Doğal Seçim",
+                "char_count": 24
+            },
+            {
+                "text": "Online Keşfedin!",
+                "char_count": 16
+            },
+            {
+                "text": "Deneyin, Sevin!",
+                "char_count": 15
+            },
+            {
+                "text": "Bugün Alın, Mutlu Olun",
+                "char_count": 22
+            },
+            {
+                "text": "Evinize Organik Lezzet",
+                "char_count": 22
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Doğal Tatlılık, Sağlıklı Yaşam",
+                "char_count": 30
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n- Organik Reçel Keyfi\n- Doğal Lezzet, Ailele Hazır\n\n**2. Reklam Gövde Metni:**\n- Organik meyvelerden hazırlanan ev yapımı reçellerimizle sağlıklı kahvaltılarınızı zenginleştirin! Katkısız, doğal ve lezzet dolu.\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri:**\n- Şimdi Sipariş Verin!\n- Aileniz İçin Doğal Seçim\n- Online Keşfedin!\n- Deneyin, Sevin!\n- Bugün Alın, Mutlu Olun\n- Evinize Organik Lezzet\n\n**4. Slogan Önerileri:**\n- Doğal Tatlılık, Sağlıklı Yaşam"
+}

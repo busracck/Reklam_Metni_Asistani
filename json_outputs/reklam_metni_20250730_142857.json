@@ -1,0 +1,66 @@
+{
+    "request_parameters": {
+        "product_name": "Organik Ev Yapımı Reçel",
+        "product_description": "sağlıklı soğal reçeller",
+        "target_audience": "Sağlıklı beslenmeye önem veren aileler, doğal ürün arayan ebeveynler, gurme lezzet düşkünleri.",
+        "ad_platform": "Google Ads",
+        "tone_of_voice": "Samimi",
+        "keywords": [
+            "ev yapımı reçel",
+            "organik",
+            "doğal",
+            "sağlıklı kahvaltı",
+            "katkısız",
+            "lezzetli",
+            "meyve reçeli"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 5,
+        "num_slogans": 1
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Ev Yapımı Reçel: Doğallık Tadında!",
+                "char_count": 34
+            },
+            {
+                "text": "Sağlıklı Reçel: Ailece Keyif!",
+                "char_count": 29
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Alın ve Deneyin!",
+                "char_count": 22
+            },
+            {
+                "text": "Organik Reçelimizi Keşfedin",
+                "char_count": 27
+            },
+            {
+                "text": "Ailece Keyif Alın",
+                "char_count": 17
+            },
+            {
+                "text": "Sağlıklı Kahvaltı İçin Sipariş Verin",
+                "char_count": 36
+            },
+            {
+                "text": "Hemen Sepetin!",
+                "char_count": 14
+            }
+        ],
+        "slogans": [
+            {
+                "text": "“Doğallıkla Tatlı Anılar!”",
+                "char_count": 26
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n\n- Ev Yapımı Reçel: Doğallık Tadında!\n- Sağlıklı Reçel: Ailece Keyif!\n\n**2. Reklam Gövde Metni:**\n\n- Organik ev yapımı reçel ile sağlıklı kahvaltılarınızı zenginleştirin. Katkısız, lezzetli ve doğal!\n\n**3. Harekete Geçirici Mesaj (CTA) Önerileri:**\n\n- Şimdi Alın ve Deneyin!\n- Organik Reçelimizi Keşfedin\n- Ailece Keyif Alın\n- Sağlıklı Kahvaltı İçin Sipariş Verin\n- Hemen Sepetin!\n\n**4. Slogan Önerileri:**\n\n- “Doğallıkla Tatlı Anılar!”\n"
+}

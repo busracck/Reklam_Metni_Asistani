@@ -1,0 +1,66 @@
+{
+    "request_parameters": {
+        "product_name": "Cilt Bakımı Nedir? 10 Basit ve Etkili Cilt Bakımı Tüyosu",
+        "product_description": "Cilt bakımı, cildin bütünlüğünü destekleyen, görünümünü iyileştiren ve ciltteki semptomları hafifleten uygulamalardır.",
+        "target_audience": "herkes",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "cilt bakımı",
+            "cilt temizleme",
+            "yüz toniği",
+            "nemlendiriciler",
+            "vitamin",
+            "beslenme",
+            "sağlıklı vücut"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 5,
+        "num_slogans": 1
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Cilt Bakımı: Sağlıklı Cilt",
+                "char_count": 26
+            },
+            {
+                "text": "Cilt Bakımı, Her Zaman",
+                "char_count": 22
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Cilt Bakımını Başlatın!",
+                "char_count": 29
+            },
+            {
+                "text": "Cilt Sağlığınız İçin Şimdi",
+                "char_count": 26
+            },
+            {
+                "text": "Detaylı Bilgi Alın",
+                "char_count": 18
+            },
+            {
+                "text": "Uygulamayı İndirin",
+                "char_count": 18
+            },
+            {
+                "text": "Profesyonel Tavsiyeler",
+                "char_count": 22
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Cilt Bakımı, Kendine İyi Bakmak.",
+                "char_count": 32
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n- Cilt Bakımı: Sağlıklı Cilt\n- Cilt Bakımı, Her Zaman\n\n**2. Reklam Gövde Metni:**\nCilt bakımıyla sağlıklı ve canlı bir cilde kavuşun! Temizlik, tonik ve nemlendirme ile farkı hissedin.\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri:**\n- Şimdi Cilt Bakımını Başlatın!\n- Cilt Sağlığınız İçin Şimdi\n- Detaylı Bilgi Alın\n- Uygulamayı İndirin\n- Profesyonel Tavsiyeler\n\n**4. Slogan Önerileri:**\n- Cilt Bakımı, Kendine İyi Bakmak."
+}

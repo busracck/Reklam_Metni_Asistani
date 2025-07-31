@@ -1,0 +1,67 @@
+{
+    "request_parameters": {
+        "product_name": "Cilt Bakımı Nedir? 10 Basit ve Etkili Cilt Bakımı Tüyosu",
+        "product_description": "Cildin bütünlüğünü destekleyen, görünümünü iyileştiren ve ciltteki semptomları hafifleten uygulamalardır. Bunlar beslenme, aşırı güneşe maruz kalmaktan kaçınma ve nemlendiricilerin uygun kullanımını içerebilir.",
+        "target_audience": "herkes",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "cilt bakımı",
+            "vitamin",
+            "nemlendirme",
+            "yüz toniği",
+            "peeling",
+            "güneş ışığı",
+            "sağlıklı beslenme",
+            "D vitamini"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 3,
+        "num_slogans": 3
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Cilt Bakımı: Sağlıklı Cilt",
+                "char_count": 26
+            },
+            {
+                "text": "Cilt Sağlığına Ulaşın!",
+                "char_count": 22
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Cilt Bakımı Rehberini İndirin!",
+                "char_count": 36
+            },
+            {
+                "text": "Sağlıklı Cilt İçin Bugün Başla!",
+                "char_count": 31
+            },
+            {
+                "text": "Cilt Bakım Rutinini Keşfet.",
+                "char_count": 27
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Cilt Sağlığı, Hayat Kalitesi.",
+                "char_count": 29
+            },
+            {
+                "text": "Cilt Bakımı ile Güzelliğin Anahtarı.",
+                "char_count": 36
+            },
+            {
+                "text": "Sağlıklı Cilt, Güvenli Cilt.",
+                "char_count": 28
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n\n- Cilt Bakımı: Sağlıklı Cilt\n- Cilt Sağlığına Ulaşın!\n\n**2. Reklam Gövde Metni:**\n\nCilt bakımıyla sağlıklı ve güzel görün! Vitaminler, nemlendirme ve güneşten koruma ile cildiniz için en iyi uygulamaları keşfedin.\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri:**\n\n- Şimdi Cilt Bakımı Rehberini İndirin!\n- Sağlıklı Cilt İçin Bugün Başla!\n- Cilt Bakım Rutinini Keşfet.\n\n**4. Slogan Önerileri:**\n\n- Cilt Sağlığı, Hayat Kalitesi.\n- Cilt Bakımı ile Güzelliğin Anahtarı.\n- Sağlıklı Cilt, Güvenli Cilt.\n"
+}

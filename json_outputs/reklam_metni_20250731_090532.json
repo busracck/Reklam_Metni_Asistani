@@ -1,0 +1,64 @@
+{
+    "request_parameters": {
+        "product_name": "10 Adımda Hazırlayacağınız Sağlıklı Beslenme Önerileri",
+        "product_description": "Listemizde bulunan adımları takip ederek kendiniz için uygun 1 aylık veya 1 haftalık sağlıklı beslenme programı oluşturabilirsiniz. Uzun vadede sağlıklı beslenme alışkanlığı edinmek için başlangıçta küçük adımlarla ilerlemeniz gerekmektedir.",
+        "target_audience": "alıcılar",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "sağlıklı beslenme",
+            "sağlıklı yaşam",
+            "beslenme önerileri",
+            "sağlıklı beslenme programı",
+            "metabolizma"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 3,
+        "num_slogans": 3
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Sağlıklı Yaşam Başlıyor",
+                "char_count": 23
+            },
+            {
+                "text": "Beslenme Rehberi",
+                "char_count": 16
+            }
+        ],
+        "body_text": {
+            "text": "(1 adet):**",
+            "char_count": 11
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Planını Oluştur!",
+                "char_count": 22
+            },
+            {
+                "text": "Sağlıklı Beslenme ile Tanış",
+                "char_count": 27
+            },
+            {
+                "text": "Hemen Başla, Sağlıklı Ol",
+                "char_count": 24
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Sağlıklı Beslenme, Sağlıklı Yaşam",
+                "char_count": 33
+            },
+            {
+                "text": "Küçük Adımlar, Büyük Değişim",
+                "char_count": 28
+            },
+            {
+                "text": "Metabolizana Sahip Çık",
+                "char_count": 22
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları (2 adet):**\n- Sağlıklı Yaşam Başlıyor\n- Beslenme Rehberi\n\n**2. Reklam Gövde Metni (1 adet):**\n10 Adımda sağlıklı beslenme programı! Metabolizma hızla toparla, sağlıklı yaşam kur.\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri (3 adet):**\n- Şimdi Planını Oluştur!\n- Sağlıklı Beslenme ile Tanış\n- Hemen Başla, Sağlıklı Ol\n\n**4. Slogan Önerileri (3 adet):**\n- Sağlıklı Beslenme, Sağlıklı Yaşam\n- Küçük Adımlar, Büyük Değişim\n- Metabolizana Sahip Çık"
+}

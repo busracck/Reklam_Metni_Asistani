@@ -1,0 +1,74 @@
+{
+    "request_parameters": {
+        "product_name": "Organik Ev Yapımı Reçel",
+        "product_description": "sağlıklı güzel meyvelerden yapılmış reçeller",
+        "target_audience": "ev yapımı reçel, organik, doğal, sağlıklı kahvaltı, katkısız, lezzetli, meyve reçeli",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Mizahi",
+        "keywords": [
+            "Sağlıklı beslenmeye önem veren aileler",
+            "doğal ürün arayan ebeveynler",
+            "gurme lezzet düşkünleri."
+        ],
+        "num_headlines": 2,
+        "num_ctas": 6,
+        "num_slogans": 3
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Meyve Sevinci!",
+                "char_count": 14
+            },
+            {
+                "text": "Doğallıkla Lezzet",
+                "char_count": 17
+            }
+        ],
+        "body_text": {
+            "text": "(1 adet):**",
+            "char_count": 11
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Sipariş Ver!",
+                "char_count": 18
+            },
+            {
+                "text": "Hemen Yerini Ayır!",
+                "char_count": 18
+            },
+            {
+                "text": "Yılın En Lezzetli Reçeli!",
+                "char_count": 25
+            },
+            {
+                "text": "Keşfet ve Alışverişe Başla!",
+                "char_count": 27
+            },
+            {
+                "text": "Sağlıklı Kahvaltıya Merhaba!",
+                "char_count": 28
+            },
+            {
+                "text": "Eğlenceyi Reçelleyelim!",
+                "char_count": 23
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Meyveyle Dolu, Kalp Sevinci!",
+                "char_count": 28
+            },
+            {
+                "text": "Doğallıkla Tat, Sağlıkla Lezzet.",
+                "char_count": 32
+            },
+            {
+                "text": "Reçel Sevinci, Her Damlası Zengin!",
+                "char_count": 34
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları (2 adet):**\n- Meyve Sevinci!\n- Doğallıkla Lezzet\n\n**2. Reklam Gövde Metni (1 adet):**\n- Organik reçellerimizle kahvaltına doğal bir lezzet kat! Sağlıklı ve lezzetli bir başlangıç için şimdi keşfet! (87 karakter)\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri (6 adet):**\n- Şimdi Sipariş Ver!\n- Hemen Yerini Ayır!\n- Yılın En Lezzetli Reçeli!\n- Keşfet ve Alışverişe Başla!\n- Sağlıklı Kahvaltıya Merhaba!\n- Eğlenceyi Reçelleyelim!\n\n**4. Slogan Önerileri (3 adet):**\n- Meyveyle Dolu, Kalp Sevinci!\n- Doğallıkla Tat, Sağlıkla Lezzet.\n- Reçel Sevinci, Her Damlası Zengin!\n"
+}

@@ -1,0 +1,67 @@
+{
+    "request_parameters": {
+        "product_name": "Cilt Bakımı Nedir?",
+        "product_description": "10 basit ve etkili cilt bakımı tüyoları. Cilt bakımı, cildin bütünlüğünü destekleyen, görünümünü iyileştiren ve ciltteki semptomları hafifleten uygulamalardır.",
+        "target_audience": "herkes",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "cilt bakımı",
+            "yüz bakımı",
+            "vitamin alın",
+            "nemlendirin",
+            "cilt temizleme",
+            "yüz toniği",
+            "pratik cilt bakım",
+            "sağlıklı beslenme"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 5,
+        "num_slogans": 1
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Cilt Bakımı: Sağlıklı Cilt",
+                "char_count": 26
+            },
+            {
+                "text": "Cilt Bakımını Keşfedin",
+                "char_count": 22
+            }
+        ],
+        "body_text": {
+            "text": "(1 adet):**",
+            "char_count": 11
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Cilt Bakımını Öğrenin!",
+                "char_count": 28
+            },
+            {
+                "text": "Sağlıklı Cilt İçin Başlayın",
+                "char_count": 27
+            },
+            {
+                "text": "Cilt Bakımını Deneyin",
+                "char_count": 21
+            },
+            {
+                "text": "Cilt Bakımını Keşfet",
+                "char_count": 20
+            },
+            {
+                "text": "Hemen Şimdi Cilt Bakımını Başlatın",
+                "char_count": 34
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Cilt Sağlığınız, Önceliğiniz Olmalı",
+                "char_count": 35
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları (2 adet):**\n- Cilt Bakımı: Sağlıklı Cilt\n- Cilt Bakımını Keşfedin\n\n**2. Reklam Gövde Metni (1 adet):**\nCilt bakımıyla sağlıklı ve ışıltılı bir cilde kavuşun! Vitamin alın, nemlendirin ve cilt bakımı tüyolarıyla cildinizi koruyun.\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri (5 adet):**\n- Şimdi Cilt Bakımını Öğrenin!\n- Sağlıklı Cilt İçin Başlayın\n- Cilt Bakımını Deneyin\n- Cilt Bakımını Keşfet\n- Hemen Şimdi Cilt Bakımını Başlatın\n\n**4. Slogan Önerileri (1 adet):**\n- Cilt Sağlığınız, Önceliğiniz Olmalı"
+}

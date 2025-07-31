@@ -1,0 +1,86 @@
+{
+    "request_parameters": {
+        "product_name": "araç kiralama",
+        "product_description": "uygun fiyata araç kiralama",
+        "target_audience": "20-40 yaş arası gençler",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Mizahi",
+        "keywords": [
+            "taksit imkanı",
+            "uygun fiyat",
+            "araba"
+        ],
+        "num_headlines": 3,
+        "num_ctas": 5,
+        "num_slogans": 6
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Araba Kiralama: Keyfine Göre!",
+                "char_count": 29
+            },
+            {
+                "text": "Uygun Fiyat, Güzergah Senin!",
+                "char_count": 28
+            },
+            {
+                "text": "Sürüş Zamanı: Şimdi Başla!",
+                "char_count": 26
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Hemen Rezervasyon Yap!",
+                "char_count": 22
+            },
+            {
+                "text": "Fiyatları Karşılaştır.",
+                "char_count": 22
+            },
+            {
+                "text": "Kampanyaları Gözden Geçir.",
+                "char_count": 26
+            },
+            {
+                "text": "Şimdi Sürüşe Başla!",
+                "char_count": 19
+            },
+            {
+                "text": "En İyi Fiyatı Yakala!",
+                "char_count": 21
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Sürüşün Tadı Bizde!",
+                "char_count": 19
+            },
+            {
+                "text": "Fiyatlar Bütçene Uygun.",
+                "char_count": 23
+            },
+            {
+                "text": "Hayallerini Yola Çıkar.",
+                "char_count": 23
+            },
+            {
+                "text": "Sürüş Keyfi Şimdi Başlıyor.",
+                "char_count": 27
+            },
+            {
+                "text": "Araba Kiralama, Basit ve Keyifli.",
+                "char_count": 33
+            },
+            {
+                "text": "Senin Rotan, Bizim Araçlarımız.",
+                "char_count": 31
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları (3 adet):**\n- Araba Kiralama: Keyfine Göre!\n- Uygun Fiyat, Güzergah Senin!\n- Sürüş Zamanı: Şimdi Başla!\n\n**2. Reklam Gövde Metni:**\n- Araba kiralama! Taksitli seçeneklerle hayallerin rotasını çizebilirsin. \n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri (5 adet):**\n- Hemen Rezervasyon Yap!\n- Fiyatları Karşılaştır.\n- Kampanyaları Gözden Geçir.\n- Şimdi Sürüşe Başla!\n- En İyi Fiyatı Yakala!\n\n**4. Slogan Önerileri (6 adet):**\n- Sürüşün Tadı Bizde!\n- Fiyatlar Bütçene Uygun.\n- Hayallerini Yola Çıkar.\n- Sürüş Keyfi Şimdi Başlıyor.\n- Araba Kiralama, Basit ve Keyifli.\n- Senin Rotan, Bizim Araçlarımız.\n"
+}

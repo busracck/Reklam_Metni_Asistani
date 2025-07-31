@@ -1,0 +1,74 @@
+{
+    "request_parameters": {
+        "product_name": "Organik Ev Yapımı Reçel",
+        "product_description": "sağlıklı reçeller",
+        "target_audience": "ev yapımı reçel, organik, doğal, sağlıklı kahvaltı, katkısız, lezzetli, meyve reçeli",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "Sağlıklı beslenmeye önem veren aileler",
+            "doğal ürün arayan ebeveynler",
+            "gurme lezzet düşkünleri."
+        ],
+        "num_headlines": 2,
+        "num_ctas": 6,
+        "num_slogans": 3
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Doğallığın Lezzeti",
+                "char_count": 18
+            },
+            {
+                "text": "Organik Reçel Keyfi",
+                "char_count": 19
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Sipariş Verin!",
+                "char_count": 20
+            },
+            {
+                "text": "Organik Reçelimizi Keşfedin",
+                "char_count": 27
+            },
+            {
+                "text": "Aile Kahvaltılarınızı Zenginleştirin",
+                "char_count": 36
+            },
+            {
+                "text": "Sağlıklı Beslenmenin Tadını Çıkarın",
+                "char_count": 35
+            },
+            {
+                "text": "Organik Reçel ile Tanışın",
+                "char_count": 25
+            },
+            {
+                "text": "Hemen Alın, Sevdiklerinize Armağan Edin",
+                "char_count": 39
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Doğallıkla Tatlı Anılar",
+                "char_count": 23
+            },
+            {
+                "text": "Sağlıklı Lezzet, Doğal Tat",
+                "char_count": 26
+            },
+            {
+                "text": "Organik Reçel, Hayatın Tadı",
+                "char_count": 27
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n- Doğallığın Lezzeti\n- Organik Reçel Keyfi\n\n**2. Reklam Gövde Metni:**\n- Organik ev yapımı reçel ile sağlıklı ve lezzetli kahvaltılara başlayın!\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri:**\n- Şimdi Sipariş Verin!\n- Organik Reçelimizi Keşfedin\n- Aile Kahvaltılarınızı Zenginleştirin\n- Sağlıklı Beslenmenin Tadını Çıkarın\n- Organik Reçel ile Tanışın\n- Hemen Alın, Sevdiklerinize Armağan Edin\n\n**4. Slogan Önerileri:**\n- Doğallıkla Tatlı Anılar\n- Sağlıklı Lezzet, Doğal Tat\n- Organik Reçel, Hayatın Tadı"
+}

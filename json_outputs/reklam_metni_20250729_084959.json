@@ -1,0 +1,64 @@
+{
+    "request_parameters": {
+        "product_name": "10 Adımda Hazırlayacağınız Sağlıklı Beslenme Önerileri",
+        "product_description": "Herkes pürüzsüz bir cilde, güçlü saç ve tırnaklara sahip olmak ister. Bunlara ve daha fit bir bedene sahip olmanın yolu sağlıklı beslenme programı uygulamaktan geçer.",
+        "target_audience": "alıcılar",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "sağlıklı beslenme",
+            "sağlıklı yaşam",
+            "beslenme önerileri",
+            "10 adımda",
+            "sağlıklı programa"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 5,
+        "num_slogans": 1
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Pürüzsüz Cilt, Sağlıklı Yaşam",
+                "char_count": 29
+            },
+            {
+                "text": "10 Adımda Sağlıklı Beslenme",
+                "char_count": 27
+            }
+        ],
+        "body_text": {
+            "text": "(1 adet):**",
+            "char_count": 11
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Başlayın!",
+                "char_count": 15
+            },
+            {
+                "text": "Sağlıklı Beslenme Planı",
+                "char_count": 23
+            },
+            {
+                "text": "Detaylar İçin Tıklayın",
+                "char_count": 22
+            },
+            {
+                "text": "Sağlıklı Yaşamaya Hazır Ol",
+                "char_count": 26
+            },
+            {
+                "text": "Sağlıklı Beslenme Uzmanları",
+                "char_count": 27
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Sağlıklı Beslenme, Sağlıklı Yaşam.",
+                "char_count": 34
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları (2 adet):**\n- Pürüzsüz Cilt, Sağlıklı Yaşam\n- 10 Adımda Sağlıklı Beslenme\n\n**2. Reklam Gövde Metni (1 adet):**\n\"10 adımda sağlıklı beslenme önerileriyle pürüzsüz cildin, güçlü saç ve tırnaklarının kilidini açın. Sağlıklı yaşamınıza başlayın!\" (87 karakter)\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri (5 adet):**\n- Şimdi Başlayın!\n- Sağlıklı Beslenme Planı\n- Detaylar İçin Tıklayın\n- Sağlıklı Yaşamaya Hazır Ol\n- Sağlıklı Beslenme Uzmanları\n\n**4. Slogan Önerileri (1 adet):**\n- Sağlıklı Beslenme, Sağlıklı Yaşam."
+}

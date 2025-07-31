@@ -1,0 +1,77 @@
+{
+    "request_parameters": {
+        "product_name": "Sağlıklı Beslenme Önerileri",
+        "product_description": "Herkes pürüzsüz bir cilde, güçlü saç ve tırnaklara sahip olmak ister. Bunlara ve daha fit bir bedene sahip olmanın yolu sağlıklı beslenme programı uygulamaktan geçer.",
+        "target_audience": "sağlığa önem veren herkes",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "sağlıklı beslenme",
+            "sağlık",
+            "beslenme",
+            "yiyecek grubu",
+            "su",
+            "yağ"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 3,
+        "num_slogans": 6
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Cilt, Saç & Sağlık",
+                "char_count": 18
+            },
+            {
+                "text": "Beslenin, Dönüşüm Yaşayın",
+                "char_count": 25
+            }
+        ],
+        "body_text": {
+            "text": "(1 adet):**",
+            "char_count": 11
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Sağlıklı Beslenme Planınıza Başlayın!",
+                "char_count": 43
+            },
+            {
+                "text": "Detaylar İçin Web Sitemizi Ziyaret Edin.",
+                "char_count": 40
+            },
+            {
+                "text": "Sağlıklı Yaşam İçin Hemen Kaydolun!",
+                "char_count": 35
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Sağlıklı Beslenme, Sağlıklı Yaşam.",
+                "char_count": 34
+            },
+            {
+                "text": "Cilt, Saç ve Sağlık Bir Arada.",
+                "char_count": 30
+            },
+            {
+                "text": "Beslenin, Güçlenin, Dönüşüm Yaşayın.",
+                "char_count": 36
+            },
+            {
+                "text": "Sağlıklı Beslenme, Kendinizi Sevin.",
+                "char_count": 35
+            },
+            {
+                "text": "Yaşam Kalitenizi Artırın.",
+                "char_count": 25
+            },
+            {
+                "text": "Sağlıklı Beslenme, Mutlu Bir Yaşam.",
+                "char_count": 35
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları (2 adet):**\n- Cilt, Saç & Sağlık\n- Beslenin, Dönüşüm Yaşayın\n\n**2. Reklam Gövde Metni (1 adet):**\nSağlıklı beslenme ile cildinizdeki pürüzsüzlüğü, saçlarınızın parlaklığını ve tırnaklarınızın gücünü keşfedin. Su ve yağ içeren dengeli beslenme programları sizi bekliyor! (89 karakter)\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri (3 adet):**\n- Şimdi Sağlıklı Beslenme Planınıza Başlayın!\n- Detaylar İçin Web Sitemizi Ziyaret Edin.\n- Sağlıklı Yaşam İçin Hemen Kaydolun!\n\n**4. Slogan Önerileri (6 adet):**\n- Sağlıklı Beslenme, Sağlıklı Yaşam.\n- Cilt, Saç ve Sağlık Bir Arada.\n- Beslenin, Güçlenin, Dönüşüm Yaşayın.\n- Sağlıklı Beslenme, Kendinizi Sevin.\n- Yaşam Kalitenizi Artırın.\n- Sağlıklı Beslenme, Mutlu Bir Yaşam.\n"
+}

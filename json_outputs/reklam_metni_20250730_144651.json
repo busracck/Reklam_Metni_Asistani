@@ -1,0 +1,66 @@
+{
+    "request_parameters": {
+        "product_name": "Organik Ev Yapımı Reçel",
+        "product_description": "sağlıklı doğal ev yapımı reçeller",
+        "target_audience": "Sağlıklı beslenmeye önem veren aileler, doğal ürün arayan ebeveynler, gurme lezzet düşkünleri.",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "ev yapımı reçel",
+            "organik",
+            "doğal",
+            "sağlıklı kahvaltı",
+            "katkısız",
+            "lezzetli",
+            "meyve reçeli"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 5,
+        "num_slogans": 1
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Organik Reçel Keyfi",
+                "char_count": 19
+            },
+            {
+                "text": "Doğallığın Lezzeti",
+                "char_count": 18
+            }
+        ],
+        "body_text": {
+            "text": "(1 adet):**",
+            "char_count": 11
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Sipariş Verin!",
+                "char_count": 20
+            },
+            {
+                "text": "En Yakın Mağazamızı Bulun.",
+                "char_count": 26
+            },
+            {
+                "text": "Organik Reçel Koleksiyonumuza Bakın.",
+                "char_count": 36
+            },
+            {
+                "text": "Ailece Keyif Alın!",
+                "char_count": 18
+            },
+            {
+                "text": "Sağlıklı Kahvaltı Deneyin.",
+                "char_count": 26
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Doğal Lezzet, Sağlıklı Yaşam.",
+                "char_count": 29
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları (2 adet):**\n- Organik Reçel Keyfi\n- Doğallığın Lezzeti\n\n**2. Reklam Gövde Metni (1 adet):**\nOrganik ev yapımı reçellerle sağlıklı kahvaltılarınızı zenginleştirin! Katkısız, doğal ve lezzetli.\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri (5 adet):**\n- Şimdi Sipariş Verin!\n- En Yakın Mağazamızı Bulun.\n- Organik Reçel Koleksiyonumuza Bakın.\n- Ailece Keyif Alın!\n- Sağlıklı Kahvaltı Deneyin.\n\n**4. Slogan Önerileri (1 adet):**\n- Doğal Lezzet, Sağlıklı Yaşam."
+}

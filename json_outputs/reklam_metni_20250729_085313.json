@@ -1,0 +1,76 @@
+{
+    "request_parameters": {
+        "product_name": "10 Adımda Hazırlayacağınız Sağlıklı Beslenme Önerileri",
+        "product_description": "Herkes pürüzsüz bir cilde, güçlü saç ve tırnaklara sahip olmak ister. Bunlara ve daha fit bir bedene sahip olmanın yolu sağlıklı beslenme programı uygulamaktan geçer.",
+        "target_audience": "alıcılar",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "sağlıklı beslenme",
+            "sağlıklı yaşam",
+            "beslenme önerileri",
+            "cilt sağlığı",
+            "metabolizma"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 5,
+        "num_slogans": 4
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Cilt Senin, Sağlığın Bizim!",
+                "char_count": 27
+            },
+            {
+                "text": "Sağlıklı Beslenme, Güzel Yaşam",
+                "char_count": 30
+            }
+        ],
+        "body_text": {
+            "text": "(1 adet):**",
+            "char_count": 11
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Başla!",
+                "char_count": 12
+            },
+            {
+                "text": "Detayları Öğrenin",
+                "char_count": 17
+            },
+            {
+                "text": "Profilinizi Oluşturun",
+                "char_count": 21
+            },
+            {
+                "text": "Sağlığınızı Koruyun",
+                "char_count": 19
+            },
+            {
+                "text": "Hemen Başlayın",
+                "char_count": 14
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Beslenme ile Güzellik.",
+                "char_count": 22
+            },
+            {
+                "text": "Sağlıklı Yaşam, Başarı.",
+                "char_count": 23
+            },
+            {
+                "text": "Metabolizmanı Hızlandır.",
+                "char_count": 24
+            },
+            {
+                "text": "Cilt Senin, Sağlığın Bizim!",
+                "char_count": 27
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları (2 adet):**\n- Cilt Senin, Sağlığın Bizim!\n- Sağlıklı Beslenme, Güzel Yaşam\n\n**2. Reklam Gövde Metni (1 adet):**\n- Cilt pürüzsüz, saçlar güçlü, metabolizma hızlanıyor! 10 adımda sağlıklı beslenme önerileriyle hayalindeki ideale ulaşın.\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri (5 adet):**\n- Şimdi Başla!\n- Detayları Öğrenin\n- Profilinizi Oluşturun\n- Sağlığınızı Koruyun\n- Hemen Başlayın\n\n**4. Slogan Önerileri (4 adet):**\n- Beslenme ile Güzellik.\n- Sağlıklı Yaşam, Başarı.\n- Metabolizmanı Hızlandır.\n- Cilt Senin, Sağlığın Bizim!\n"
+}

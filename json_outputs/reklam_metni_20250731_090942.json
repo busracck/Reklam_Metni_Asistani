@@ -1,0 +1,68 @@
+{
+    "request_parameters": {
+        "product_name": "Hijyen: Kapsamlı Bilgi Rehberi",
+        "product_description": "Hijyen uygulamaları, bireylerin ve toplumun sağlığını korumanın yanı sıra genel yaşam kalitesini de artırır. Hijyen belgelenme, mikroorganizmaların, kirlerin ve zararlı maddelerin etkili bir şekilde uzaklaştırılmasını sağlar.",
+        "target_audience": "herkes",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "hijyen",
+            "temizlik",
+            "koruma",
+            "sağlık",
+            "mikroorganizmalar"
+        ],
+        "num_headlines": 3,
+        "num_ctas": 3,
+        "num_slogans": 3
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Hijyen: Sağlığın Anahtarı",
+                "char_count": 25
+            },
+            {
+                "text": "Temizlik, Güvenli Yaşam",
+                "char_count": 23
+            },
+            {
+                "text": "Mikroorganizmalara Son!",
+                "char_count": 23
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Hijyen rehberini şimdi indirin!",
+                "char_count": 31
+            },
+            {
+                "text": "Sağlığınızı koruma bilginizi artırın!",
+                "char_count": 37
+            },
+            {
+                "text": "Güvenli bir gelecek için bilgiye ulaşın!",
+                "char_count": 40
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Hijyen, Sağlığın Temeli.",
+                "char_count": 24
+            },
+            {
+                "text": "Temizlik, Güvenli Yaşam Garantisi.",
+                "char_count": 34
+            },
+            {
+                "text": "Mikroorganizmalardan Koruma!",
+                "char_count": 28
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n\n- Hijyen: Sağlığın Anahtarı\n- Temizlik, Güvenli Yaşam\n- Mikroorganizmalara Son!\n\n**2. Reklam Gövde Metni:**\n\n- Hijyen ile sağlığınızı koruyun! Mikroorganizmalarla mücadele edin, güvenli bir yaşam için şimdi harekete geçin.\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri:**\n\n- Hijyen rehberini şimdi indirin!\n- Sağlığınızı koruma bilginizi artırın!\n- Güvenli bir gelecek için bilgiye ulaşın!\n\n**4. Slogan Önerileri:**\n\n- Hijyen, Sağlığın Temeli.\n- Temizlik, Güvenli Yaşam Garantisi.\n- Mikroorganizmalardan Koruma!\n"
+}

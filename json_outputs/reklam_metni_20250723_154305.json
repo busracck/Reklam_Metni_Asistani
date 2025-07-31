@@ -1,0 +1,74 @@
+{
+    "request_parameters": {
+        "product_name": "çanta",
+        "product_description": "güzel deri çantalar",
+        "target_audience": "deri çanta",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "kadınlar",
+            "tarz",
+            "çanta"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 6,
+        "num_slogans": 3
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "İsterin Deri",
+                "char_count": 12
+            },
+            {
+                "text": "Stiliniz Tarzınız",
+                "char_count": 17
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Keşfedin!",
+                "char_count": 15
+            },
+            {
+                "text": "Stilinizi Yükseltin.",
+                "char_count": 20
+            },
+            {
+                "text": "Hemen Sipariş Verin.",
+                "char_count": 20
+            },
+            {
+                "text": "Yeni Koleksiyonumuza Bakın.",
+                "char_count": 27
+            },
+            {
+                "text": "Özel Fırsatları Kaçırmayın.",
+                "char_count": 27
+            },
+            {
+                "text": "Tarzınızı Yansıtın.",
+                "char_count": 19
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Deriyle Dans Et.",
+                "char_count": 16
+            },
+            {
+                "text": "Kalite ve Tarz Bir Arada.",
+                "char_count": 25
+            },
+            {
+                "text": "Şıklığınızın Anahtarı.",
+                "char_count": 22
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n- İsterin Deri\n- Stiliniz Tarzınız\n\n**2. Reklam Gövde Metni:**\n- Şıklığınızı tamamlayan, zarif deri çantalar. Kadınlar için tarz!\n\n**3. Harekete Geçirici Mesaj (CTA) Önerileri:**\n- Şimdi Keşfedin!\n- Stilinizi Yükseltin.\n- Hemen Sipariş Verin.\n- Yeni Koleksiyonumuza Bakın.\n- Özel Fırsatları Kaçırmayın.\n- Tarzınızı Yansıtın.\n\n**4. Slogan Önerileri:**\n- Deriyle Dans Et.\n- Kalite ve Tarz Bir Arada.\n- Şıklığınızın Anahtarı.\n"
+}

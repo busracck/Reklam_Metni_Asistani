@@ -1,0 +1,74 @@
+{
+    "request_parameters": {
+        "product_name": "Organik Ev Yapımı Reçel",
+        "product_description": "sağlıklı reçeller",
+        "target_audience": "Sağlıklı beslenmeye önem veren aileler, doğal ürün arayan ebeveynler, gurme lezzet düşkünleri.",
+        "ad_platform": "Facebook/Instagram",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "ev yapımı reçel",
+            "organik",
+            "doğal",
+            "sağlıklı kahvaltı",
+            "katkısız",
+            "lezzetli",
+            "meyve reçeli"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 3,
+        "num_slogans": 5
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Ev Yapımı Lezzet",
+                "char_count": 16
+            },
+            {
+                "text": "Doğal Kahvaltı Keyfi",
+                "char_count": 20
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Keşfet",
+                "char_count": 12
+            },
+            {
+                "text": "Hemen Sipariş Ver",
+                "char_count": 17
+            },
+            {
+                "text": "Sağlıklı Kahvaltıya Başla",
+                "char_count": 25
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Doğallığın Tadı",
+                "char_count": 15
+            },
+            {
+                "text": "Sağlıklı, Lezzetli, Ev Yapımı",
+                "char_count": 29
+            },
+            {
+                "text": "Meyvelerin Doğal Güzelliği",
+                "char_count": 26
+            },
+            {
+                "text": "Her Sabah Bir Lezzet",
+                "char_count": 20
+            },
+            {
+                "text": "Evde Yapılan Keyif",
+                "char_count": 18
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n- Ev Yapımı Lezzet\n- Doğal Kahvaltı Keyfi\n\n**2. Reklam Gövde Metni:**\n- Organik meyvelerle hazırlanan, katkısız ev yapımı reçel ile sağlıklı kahvaltılarınızı zenginleştirin!\n\n**3. Harekete Geçirici Mesaj (CTA) Önerileri:**\n- Şimdi Keşfet\n- Hemen Sipariş Ver\n- Sağlıklı Kahvaltıya Başla\n\n**4. Slogan Önerileri:**\n- Doğallığın Tadı\n- Sağlıklı, Lezzetli, Ev Yapımı\n- Meyvelerin Doğal Güzelliği\n- Her Sabah Bir Lezzet\n- Evde Yapılan Keyif"
+}

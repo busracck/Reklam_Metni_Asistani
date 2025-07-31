@@ -1,0 +1,73 @@
+{
+    "request_parameters": {
+        "product_name": "10 Basit ve Etkili Cilt Bakımı Tüyosu",
+        "product_description": "Cilt bakımı, cildin bütünlüğünü destekleyen, görünümünü iyileştiren ve ciltteki semptomları hafifleten uygulamalardır. Bunlar beslenme, aşırı güneşe maruz kalmaktan kaçınma ve nemlendiricilerin uygun kullanımını içerebilir.",
+        "target_audience": "herkes",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "cilt bakımı",
+            "vitamin",
+            "cildinizi besleyin",
+            "nemlendirin",
+            "cilt temizliği",
+            "yüz toniği",
+            "ilık su",
+            "peeling",
+            "hareket edin",
+            "mevsim değişiklikleri"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 1,
+        "num_slogans": 6
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Cilt Bakımının Anahtarı",
+                "char_count": 23
+            },
+            {
+                "text": "Sağlıklı Cilt, Parlak Sen",
+                "char_count": 25
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Cilt Bakımı Rutinize Başlayın!",
+                "char_count": 36
+            }
+        ],
+        "slogans": [
+            {
+                "text": "Cildinizi Besleyin, Güzelliğinizi Artırın.",
+                "char_count": 42
+            },
+            {
+                "text": "Sağlıklı Cilt, Güvenli Hissiyat.",
+                "char_count": 32
+            },
+            {
+                "text": "Cilt Bakımı, Her Zaman Mükemmel.",
+                "char_count": 32
+            },
+            {
+                "text": "Vitaminlerle Cildinizi Aşılayın.",
+                "char_count": 32
+            },
+            {
+                "text": "Cilt Toninizi Düzenleyin, Göz Alıcı Olun.",
+                "char_count": 41
+            },
+            {
+                "text": "Cildinizi Dinleyin, Bakım Yapın.",
+                "char_count": 32
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n\n- Cilt Bakımının Anahtarı\n- Sağlıklı Cilt, Parlak Sen\n\n**2. Reklam Gövde Metni:**\n\n- Cilt bakımıyla besleyin, nemlendirin ve mevsim değişikliklerine hazırlıklı olun. Cildinizi sağlıklı tutun!\n\n**3. Harekete Geçirici Mesaj (CTA) Önerileri:**\n\n- Şimdi Cilt Bakımı Rutinize Başlayın!\n\n**4. Slogan Önerileri:**\n\n- Cildinizi Besleyin, Güzelliğinizi Artırın.\n- Sağlıklı Cilt, Güvenli Hissiyat.\n- Cilt Bakımı, Her Zaman Mükemmel.\n- Vitaminlerle Cildinizi Aşılayın.\n- Cilt Toninizi Düzenleyin, Göz Alıcı Olun.\n- Cildinizi Dinleyin, Bakım Yapın.\n"
+}
