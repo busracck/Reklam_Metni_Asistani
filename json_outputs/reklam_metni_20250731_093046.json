@@ -1,0 +1,68 @@
+{
+    "request_parameters": {
+        "product_name": "Çanta",
+        "product_description": "Çantanın tarihçesi Orta Asya’ya kadar uzanmaktadır. Çantalar, kişisel eşyalarımızı yanımızda taşımamızı kolaylaştıran bir araçtır.",
+        "target_audience": "herkes",
+        "ad_platform": "Genel",
+        "tone_of_voice": "Profesyonel",
+        "keywords": [
+            "laptop çantası",
+            "sırt çantası",
+            "outdoor ürünleri",
+            "kalemlik",
+            "aksesuar"
+        ],
+        "num_headlines": 2,
+        "num_ctas": 6,
+        "num_slogans": 1
+    },
+    "generated_content": {
+        "headlines": [
+            {
+                "text": "Orta Asya’nın Mirası",
+                "char_count": 20
+            },
+            {
+                "text": "Yanınızda Yaşamın",
+                "char_count": 17
+            }
+        ],
+        "body_text": {
+            "text": ":**",
+            "char_count": 3
+        },
+        "ctas": [
+            {
+                "text": "Şimdi Keşfet!",
+                "char_count": 13
+            },
+            {
+                "text": "Hemen Sipariş Verin",
+                "char_count": 19
+            },
+            {
+                "text": "Yüksek Kaliteye Sahip Ol",
+                "char_count": 24
+            },
+            {
+                "text": "Koleksiyonumuza Bakın",
+                "char_count": 21
+            },
+            {
+                "text": "Farklı Tarzlarda Seçenekler",
+                "char_count": 27
+            },
+            {
+                "text": "Kaliteye Yatırım Yapın",
+                "char_count": 22
+            }
+        ],
+        "slogans": [
+            {
+                "text": "\"Öykülerin Yanınızda.\"",
+                "char_count": 22
+            }
+        ]
+    },
+    "raw_llm_response": "**1. Reklam Başlıkları:**\n- Orta Asya’nın Mirası\n- Yanınızda Yaşamın\n\n**2. Reklam Gövde Metni:**\n- Tarihi çantalarla tanışın. Laptop, sırt çantası ve daha fazlası için ideal aksesuar.\n\n**3. Harekete Geçirici Mesaj (Call to Action - CTA) Önerileri:**\n- Şimdi Keşfet!\n- Hemen Sipariş Verin\n- Yüksek Kaliteye Sahip Ol\n- Koleksiyonumuza Bakın\n- Farklı Tarzlarda Seçenekler\n- Kaliteye Yatırım Yapın\n\n**4. Slogan Önerileri:**\n- \"Öykülerin Yanınızda.\""
+}
